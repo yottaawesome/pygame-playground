@@ -16,7 +16,7 @@ Afterwards, follow the below instructions.
 2. Create a Python 3 virtual environment: `virtualenv -p python3 env`.
 3. Activate the Python virtual environment: `source env/bin/activate`.
 4. Install Python dependencies: `pip install -r requirements.txt`.
-5. You should not be able to any of the examples in the directories in `src`.
+5. You should now be able to any of the examples in the directories in `src`.
 
 ## Note for VS Code and pylint users
 
