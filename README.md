@@ -1,4 +1,4 @@
-# pygame-playground
+# Pygame Playground
 
 Getting to know PyGame through samples and mini-games!
 
